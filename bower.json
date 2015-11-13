@@ -1,18 +1,18 @@
 {
-  "name": "seed-element",
-  "version": "1.0.4",
+  "name": "rtd-login",
+  "version": "0.0.0",
   "authors": [
-    "Anonymous <anonymous@example.com>"
+    "Jason Travis <JasonTravis@nau.edu>"
   ],
-  "description": "An element providing a solution to no problem in particular.",
+  "description": "Login form",
   "keywords": [
     "web-component",
     "polymer",
     "seed"
   ],
-  "main": "seed-element.html",
+  "main": "rtd-login.html",
   "license": "http://polymer.github.io/LICENSE.txt",
-  "homepage": "https://github.com/<USERNAME>/seed-element/",
+  "homepage": "https://github.com/corburn/rtd-login/",
   "ignore": [
     "/.*",
     "/test/"
